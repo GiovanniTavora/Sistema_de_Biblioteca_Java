@@ -1,0 +1,4 @@
+O Fim da Infância, 255, 25, Arthur C. Clarke, Sci-Fi, Editora Aleph, 2009, 8765, 1
+Jurassic Park, 235, 25.5, Michael Crichton, Aventura, Editora Aleph, 2015, 5432, 2
+Nausicaa, 125, 50.45, Hayao Miyazaki, Ação, JBC, 2020, 7463, 3
+Sherlock Holmes, 150, 99.89, Arthur Cornan Doyle, Mistério, HarperCollins, 2019, 5674, 4

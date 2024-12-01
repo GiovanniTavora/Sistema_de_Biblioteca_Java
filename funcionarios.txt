@@ -1,0 +1,4 @@
+Pablo, 8/7/2000, 76542, Professor, 1234, Gestão
+Maria, 9/6/1984, 98765, Atendente, 9876, Empréstimos e Devoluções
+Jorge, 7/5/1971, 87654, Bibliotecário, 2004, Catalogação
+Lucas, 30/01/1983, 5356, Auxiliar de Limpeza, 9854, Manutenção

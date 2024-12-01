@@ -1,0 +1,4 @@
+João, 12/3/1999, 543321, 2315106, Ciências da Computação
+Beatriz, 9/5/2004, 765427, 123456, Nutrição
+Raul, 6/7/2005, 65432, 54321, Enfermagem
+Gabriel, 8/10/1999, 65432, 98765, Direito
